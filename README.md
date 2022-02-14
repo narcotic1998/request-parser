@@ -15,4 +15,6 @@ app.use(getParser()); // Custom Parser to parse form data and json
 
 // Now all the requests will be parsed and handled automatically
 
+// Refer express-formidable( for form data ) and express( for JSON ) documentation to use the parsed values
+
 ```

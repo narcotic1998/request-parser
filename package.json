@@ -1,6 +1,6 @@
 {
   "name": "@naren_codes/request-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Util to parse incoming JSON, Form requests without difficulty",
   "main": "index.js",
   "scripts": {
