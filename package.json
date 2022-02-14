@@ -1,0 +1,31 @@
+{
+  "name": "@naren_codes/request-parser",
+  "version": "1.0.0",
+  "description": "Util to parse incoming JSON, Form requests without difficulty",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Naren",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-formidable": "^1.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narcotic1998/request-parser.git"
+  },
+  "keywords": [
+    "request",
+    "parser",
+    "json",
+    "form",
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/narcotic1998/request-parser/issues"
+  },
+  "homepage": "https://github.com/narcotic1998/request-parser#readme"
+}
